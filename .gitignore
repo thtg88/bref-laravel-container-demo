@@ -1,0 +1,6 @@
+/src/*
+!/src/.gitkeep
+/vendor
+.env
+.env.backup
+.serverless
